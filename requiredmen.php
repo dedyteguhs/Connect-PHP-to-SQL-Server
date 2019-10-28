@@ -1,5 +1,5 @@
 <?php
-echo "cantik bahenol dll"
+echo "  dll";
 
 
 ?>
